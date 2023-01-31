@@ -1,2 +1,2 @@
 # gd32f403_template
-Project structure template for use with gnu arm eabi and make under windows
+Giga device GD32F403 gcc template with a simple makefile
